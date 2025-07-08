@@ -9,6 +9,10 @@ requirements = []
 path = 'contracts/Exam-Results-Verification-Contract.clar'
 clarity_version = 3
 epoch = 3.1
+[contracts.Certificate-Badge-System]
+path = 'contracts/Certificate-Badge-System.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
